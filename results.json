@@ -1,0 +1,3286 @@
+{
+  "period": [
+    "2025-01-01",
+    "2025-06-30"
+  ],
+  "n_transactions": 149116,
+  "n_days": 181,
+  "total_revenue": 698812.3300000001,
+  "total_units": 214470,
+  "avg_ticket": 4.6863671906435265,
+  "avg_units_per_txn": 1.438276241315486,
+  "avg_daily_revenue": 3860.841602209945,
+  "avg_daily_txns": 823.8453038674033,
+  "daily_trend_slope_usd_per_day": 20.841427458361167,
+  "daily_rev_min": [
+    "2025-01-28",
+    2037.1
+  ],
+  "daily_rev_max": [
+    "2025-06-19",
+    6403.91
+  ],
+  "daily_rev_std": 1187.8220295866327,
+  "daily_rev_cv": 0.307658835033979,
+  "monthly": [
+    {
+      "month": 1,
+      "month_name": "January",
+      "revenue": 81677.74,
+      "txns": 17314,
+      "mom_pct": NaN,
+      "days": 31,
+      "rev_per_day": 2634.77
+    },
+    {
+      "month": 2,
+      "month_name": "February",
+      "revenue": 76145.19,
+      "txns": 16359,
+      "mom_pct": -6.77,
+      "days": 28,
+      "rev_per_day": 2719.47
+    },
+    {
+      "month": 3,
+      "month_name": "March",
+      "revenue": 98834.68,
+      "txns": 21229,
+      "mom_pct": 29.8,
+      "days": 31,
+      "rev_per_day": 3188.22
+    },
+    {
+      "month": 4,
+      "month_name": "April",
+      "revenue": 118941.08,
+      "txns": 25335,
+      "mom_pct": 20.34,
+      "days": 30,
+      "rev_per_day": 3964.7
+    },
+    {
+      "month": 5,
+      "month_name": "May",
+      "revenue": 156727.76,
+      "txns": 33527,
+      "mom_pct": 31.77,
+      "days": 31,
+      "rev_per_day": 5055.73
+    },
+    {
+      "month": 6,
+      "month_name": "June",
+      "revenue": 166485.88,
+      "txns": 35352,
+      "mom_pct": 6.23,
+      "days": 30,
+      "rev_per_day": 5549.53
+    }
+  ],
+  "h1_growth_jan_to_jun": 103.8326231847257,
+  "weekly_growth_first4_vs_last4": 79.22428768800715,
+  "store_monthly": {
+    "Astoria": {
+      "January": 27313.66,
+      "February": 25105.34,
+      "March": 32835.43,
+      "April": 39477.61,
+      "May": 52428.76,
+      "June": 55083.11
+    },
+    "Hell's Kitchen": {
+      "January": 27820.65,
+      "February": 25719.8,
+      "March": 33110.57,
+      "April": 40304.14,
+      "May": 52598.93,
+      "June": 56957.08
+    },
+    "Lower Manhattan": {
+      "January": 26543.43,
+      "February": 25320.05,
+      "March": 32888.68,
+      "April": 39159.33,
+      "May": 51700.07,
+      "June": 54445.69
+    }
+  },
+  "day_of_week": [
+    {
+      "day_of_week": "Monday",
+      "avg_revenue": 3898.96,
+      "avg_txns": 834.65,
+      "total_revenue": 101373.0,
+      "n_days": 26,
+      "std_revenue": 1223.22,
+      "avg_ticket": 4.67,
+      "share_pct": 14.51
+    },
+    {
+      "day_of_week": "Tuesday",
+      "avg_revenue": 3875.78,
+      "avg_txns": 820.4,
+      "total_revenue": 96894.48,
+      "n_days": 25,
+      "std_revenue": 1265.7,
+      "avg_ticket": 4.72,
+      "share_pct": 13.87
+    },
+    {
+      "day_of_week": "Wednesday",
+      "avg_revenue": 3781.94,
+      "avg_txns": 811.38,
+      "total_revenue": 98330.31,
+      "n_days": 26,
+      "std_revenue": 1147.45,
+      "avg_ticket": 4.66,
+      "share_pct": 14.07
+    },
+    {
+      "day_of_week": "Thursday",
+      "avg_revenue": 3910.66,
+      "avg_txns": 832.42,
+      "total_revenue": 101677.28,
+      "n_days": 26,
+      "std_revenue": 1232.79,
+      "avg_ticket": 4.7,
+      "share_pct": 14.55
+    },
+    {
+      "day_of_week": "Friday",
+      "avg_revenue": 3825.23,
+      "avg_txns": 815.46,
+      "total_revenue": 99455.94,
+      "n_days": 26,
+      "std_revenue": 1237.14,
+      "avg_ticket": 4.69,
+      "share_pct": 14.23
+    },
+    {
+      "day_of_week": "Saturday",
+      "avg_revenue": 3858.21,
+      "avg_txns": 819.62,
+      "total_revenue": 100313.54,
+      "n_days": 26,
+      "std_revenue": 1153.9,
+      "avg_ticket": 4.71,
+      "share_pct": 14.35
+    },
+    {
+      "day_of_week": "Sunday",
+      "avg_revenue": 3875.68,
+      "avg_txns": 832.85,
+      "total_revenue": 100767.78,
+      "n_days": 26,
+      "std_revenue": 1188.98,
+      "avg_ticket": 4.65,
+      "share_pct": 14.42
+    }
+  ],
+  "busiest_day": "Thursday",
+  "slowest_day": "Wednesday",
+  "dow_spread_pct": 3.4038029576028084,
+  "weekday_avg_daily_rev": 3858.3799224806203,
+  "weekend_avg_daily_rev": 3866.9484615384617,
+  "weekend_vs_weekday_pct": 0.22207608452236016,
+  "weekday_avg_ticket": 4.688851929308916,
+  "weekend_avg_ticket": 4.6802280979424635,
+  "anova_dow_F": 0.03528900317759801,
+  "anova_dow_p": 0.999811457982879,
+  "hourly": [
+    {
+      "hour": 6,
+      "revenue": 21900.27,
+      "txns": 4594,
+      "units": 6865,
+      "avg_txns_per_day": 25.38,
+      "avg_rev_per_day": 121.0,
+      "rev_share_pct": 3.13,
+      "avg_ticket": 4.77
+    },
+    {
+      "hour": 7,
+      "revenue": 63526.47,
+      "txns": 13428,
+      "units": 19449,
+      "avg_txns_per_day": 74.19,
+      "avg_rev_per_day": 350.97,
+      "rev_share_pct": 9.09,
+      "avg_ticket": 4.73
+    },
+    {
+      "hour": 8,
+      "revenue": 82699.87,
+      "txns": 17654,
+      "units": 25197,
+      "avg_txns_per_day": 97.54,
+      "avg_rev_per_day": 456.91,
+      "rev_share_pct": 11.83,
+      "avg_ticket": 4.68
+    },
+    {
+      "hour": 9,
+      "revenue": 85169.53,
+      "txns": 17764,
+      "units": 25370,
+      "avg_txns_per_day": 98.14,
+      "avg_rev_per_day": 470.55,
+      "rev_share_pct": 12.19,
+      "avg_ticket": 4.79
+    },
+    {
+      "hour": 10,
+      "revenue": 88673.39,
+      "txns": 18545,
+      "units": 26713,
+      "avg_txns_per_day": 102.46,
+      "avg_rev_per_day": 489.91,
+      "rev_share_pct": 12.69,
+      "avg_ticket": 4.78
+    },
+    {
+      "hour": 11,
+      "revenue": 46319.14,
+      "txns": 9766,
+      "units": 14035,
+      "avg_txns_per_day": 53.96,
+      "avg_rev_per_day": 255.91,
+      "rev_share_pct": 6.63,
+      "avg_ticket": 4.74
+    },
+    {
+      "hour": 12,
+      "revenue": 40192.79,
+      "txns": 8708,
+      "units": 12690,
+      "avg_txns_per_day": 48.11,
+      "avg_rev_per_day": 222.06,
+      "rev_share_pct": 5.75,
+      "avg_ticket": 4.62
+    },
+    {
+      "hour": 13,
+      "revenue": 40367.45,
+      "txns": 8714,
+      "units": 12439,
+      "avg_txns_per_day": 48.14,
+      "avg_rev_per_day": 223.02,
+      "rev_share_pct": 5.78,
+      "avg_ticket": 4.63
+    },
+    {
+      "hour": 14,
+      "revenue": 41304.74,
+      "txns": 8933,
+      "units": 12907,
+      "avg_txns_per_day": 49.35,
+      "avg_rev_per_day": 228.2,
+      "rev_share_pct": 5.91,
+      "avg_ticket": 4.62
+    },
+    {
+      "hour": 15,
+      "revenue": 41733.1,
+      "txns": 8979,
+      "units": 12923,
+      "avg_txns_per_day": 49.61,
+      "avg_rev_per_day": 230.57,
+      "rev_share_pct": 5.97,
+      "avg_ticket": 4.65
+    },
+    {
+      "hour": 16,
+      "revenue": 41122.75,
+      "txns": 9093,
+      "units": 12881,
+      "avg_txns_per_day": 50.24,
+      "avg_rev_per_day": 227.2,
+      "rev_share_pct": 5.88,
+      "avg_ticket": 4.52
+    },
+    {
+      "hour": 17,
+      "revenue": 40134.31,
+      "txns": 8745,
+      "units": 12700,
+      "avg_txns_per_day": 48.31,
+      "avg_rev_per_day": 221.74,
+      "rev_share_pct": 5.74,
+      "avg_ticket": 4.59
+    },
+    {
+      "hour": 18,
+      "revenue": 34286.2,
+      "txns": 7498,
+      "units": 10826,
+      "avg_txns_per_day": 41.43,
+      "avg_rev_per_day": 189.43,
+      "rev_share_pct": 4.91,
+      "avg_ticket": 4.57
+    },
+    {
+      "hour": 19,
+      "revenue": 28446.68,
+      "txns": 6092,
+      "units": 8595,
+      "avg_txns_per_day": 33.66,
+      "avg_rev_per_day": 157.16,
+      "rev_share_pct": 4.07,
+      "avg_ticket": 4.67
+    },
+    {
+      "hour": 20,
+      "revenue": 2935.64,
+      "txns": 603,
+      "units": 880,
+      "avg_txns_per_day": 3.33,
+      "avg_rev_per_day": 16.22,
+      "rev_share_pct": 0.42,
+      "avg_ticket": 4.87
+    }
+  ],
+  "open_hour": 6,
+  "close_hour": 20,
+  "peak_hour": 10,
+  "top3_hours": [
+    10,
+    9,
+    8
+  ],
+  "top3_hours_share": 36.711256940758325,
+  "morning_block_8_10_share": 36.711256940758325,
+  "slowest_hours": [
+    20,
+    6,
+    19
+  ],
+  "hour_peak_to_trough_ratio": 30.754560530679935,
+  "time_buckets": {
+    "Morning": {
+      "revenue": 388288.67,
+      "txns": 81751.0,
+      "share_pct": 55.56
+    },
+    "Afternoon": {
+      "revenue": 204720.83,
+      "txns": 44427.0,
+      "share_pct": 29.3
+    },
+    "Evening": {
+      "revenue": 105802.83,
+      "txns": 22938.0,
+      "share_pct": 15.14
+    },
+    "Late hours": {
+      "revenue": 0.0,
+      "txns": 0.0,
+      "share_pct": 0.0
+    }
+  },
+  "stores": [
+    {
+      "store_location": "Astoria",
+      "revenue": 232243.91,
+      "txns": 50599,
+      "units": 70991,
+      "avg_ticket": 4.59,
+      "share_pct": 33.23,
+      "avg_daily_revenue": 1283.12,
+      "peak_hour": 10.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "revenue": 236511.17,
+      "txns": 50735,
+      "units": 71737,
+      "avg_ticket": 4.66,
+      "share_pct": 33.84,
+      "avg_daily_revenue": 1306.69,
+      "peak_hour": 10.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "revenue": 230057.25,
+      "txns": 47782,
+      "units": 71742,
+      "avg_ticket": 4.81,
+      "share_pct": 32.92,
+      "avg_daily_revenue": 1271.03,
+      "peak_hour": 10.0
+    }
+  ],
+  "store_peak": {
+    "Astoria": {
+      "peak_hour": 10,
+      "peak_hour_txn_share_pct": 10.456728393841775
+    },
+    "Hell's Kitchen": {
+      "peak_hour": 10,
+      "peak_hour_txn_share_pct": 13.712427318419238
+    },
+    "Lower Manhattan": {
+      "peak_hour": 10,
+      "peak_hour_txn_share_pct": 13.178602821146038
+    }
+  },
+  "store_revenue_spread_pct": 2.80535388473957,
+  "store_dow_avg_revenue": {
+    "Astoria": {
+      "Monday": 1287.41,
+      "Tuesday": 1273.84,
+      "Wednesday": 1261.35,
+      "Thursday": 1304.93,
+      "Friday": 1223.72,
+      "Saturday": 1317.1,
+      "Sunday": 1313.09
+    },
+    "Hell's Kitchen": {
+      "Monday": 1336.28,
+      "Tuesday": 1303.97,
+      "Wednesday": 1295.6,
+      "Thursday": 1284.21,
+      "Friday": 1340.25,
+      "Saturday": 1299.2,
+      "Sunday": 1287.23
+    },
+    "Lower Manhattan": {
+      "Monday": 1275.27,
+      "Tuesday": 1297.97,
+      "Wednesday": 1224.98,
+      "Thursday": 1321.52,
+      "Friday": 1261.26,
+      "Saturday": 1241.92,
+      "Sunday": 1275.36
+    }
+  },
+  "store_dow_best": {
+    "Astoria": "Saturday",
+    "Hell's Kitchen": "Friday",
+    "Lower Manhattan": "Thursday"
+  },
+  "store_dow_worst": {
+    "Astoria": "Friday",
+    "Hell's Kitchen": "Thursday",
+    "Lower Manhattan": "Wednesday"
+  },
+  "categories": {
+    "Coffee": {
+      "revenue": 269952.45,
+      "txns": 58416,
+      "share_pct": 38.63
+    },
+    "Tea": {
+      "revenue": 196405.95,
+      "txns": 45449,
+      "share_pct": 28.11
+    },
+    "Bakery": {
+      "revenue": 82315.64,
+      "txns": 22796,
+      "share_pct": 11.78
+    },
+    "Drinking Chocolate": {
+      "revenue": 72416.0,
+      "txns": 11468,
+      "share_pct": 10.36
+    },
+    "Coffee beans": {
+      "revenue": 40085.25,
+      "txns": 1753,
+      "share_pct": 5.74
+    },
+    "Branded": {
+      "revenue": 13607.0,
+      "txns": 747,
+      "share_pct": 1.95
+    },
+    "Loose Tea": {
+      "revenue": 11213.6,
+      "txns": 1210,
+      "share_pct": 1.6
+    },
+    "Flavours": {
+      "revenue": 8408.8,
+      "txns": 6790,
+      "share_pct": 1.2
+    },
+    "Packaged Chocolate": {
+      "revenue": 4407.64,
+      "txns": 487,
+      "share_pct": 0.63
+    }
+  },
+  "category_mix_by_bucket_pct": {
+    "Bakery": {
+      "Morning": 12.4,
+      "Afternoon": 11.11,
+      "Evening": 10.78
+    },
+    "Branded": {
+      "Morning": 2.21,
+      "Afternoon": 1.65,
+      "Evening": 1.58
+    },
+    "Coffee": {
+      "Morning": 37.21,
+      "Afternoon": 40.6,
+      "Evening": 40.05
+    },
+    "Coffee beans": {
+      "Morning": 7.26,
+      "Afternoon": 3.85,
+      "Evening": 3.81
+    },
+    "Drinking Chocolate": {
+      "Morning": 9.83,
+      "Afternoon": 10.9,
+      "Evening": 11.29
+    },
+    "Flavours": {
+      "Morning": 1.49,
+      "Afternoon": 0.85,
+      "Evening": 0.85
+    },
+    "Loose Tea": {
+      "Morning": 1.9,
+      "Afternoon": 1.18,
+      "Evening": 1.33
+    },
+    "Packaged Chocolate": {
+      "Morning": 0.77,
+      "Afternoon": 0.45,
+      "Evening": 0.47
+    },
+    "Tea": {
+      "Morning": 26.94,
+      "Afternoon": 29.41,
+      "Evening": 29.85
+    }
+  },
+  "top_product_types": {
+    "Barista Espresso": 91406.2,
+    "Brewed Chai tea": 77081.95,
+    "Hot chocolate": 72416.0,
+    "Gourmet brewed coffee": 70034.6,
+    "Brewed Black tea": 47932.0,
+    "Brewed herbal tea": 47539.5,
+    "Premium brewed coffee": 38781.15,
+    "Organic brewed coffee": 37746.5
+  },
+  "service_rate_assumption": 25,
+  "staffing_matrix": [
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 7,
+      "txns": 590,
+      "nd": 26,
+      "avg_txns_hr": 22.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 8,
+      "txns": 760,
+      "nd": 26,
+      "avg_txns_hr": 29.23,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 9,
+      "txns": 769,
+      "nd": 26,
+      "avg_txns_hr": 29.58,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 10,
+      "txns": 757,
+      "nd": 26,
+      "avg_txns_hr": 29.12,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 11,
+      "txns": 471,
+      "nd": 26,
+      "avg_txns_hr": 18.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "txns": 435,
+      "nd": 26,
+      "avg_txns_hr": 16.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 13,
+      "txns": 452,
+      "nd": 26,
+      "avg_txns_hr": 17.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 14,
+      "txns": 437,
+      "nd": 26,
+      "avg_txns_hr": 16.81,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 15,
+      "txns": 469,
+      "nd": 26,
+      "avg_txns_hr": 18.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 16,
+      "txns": 455,
+      "nd": 26,
+      "avg_txns_hr": 17.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 17,
+      "txns": 497,
+      "nd": 26,
+      "avg_txns_hr": 19.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 18,
+      "txns": 439,
+      "nd": 26,
+      "avg_txns_hr": 16.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Friday",
+      "hour": 19,
+      "txns": 501,
+      "nd": 26,
+      "avg_txns_hr": 19.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 7,
+      "txns": 610,
+      "nd": 26,
+      "avg_txns_hr": 23.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 8,
+      "txns": 729,
+      "nd": 26,
+      "avg_txns_hr": 28.04,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 9,
+      "txns": 766,
+      "nd": 26,
+      "avg_txns_hr": 29.46,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 10,
+      "txns": 810,
+      "nd": 26,
+      "avg_txns_hr": 31.15,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 11,
+      "txns": 478,
+      "nd": 26,
+      "avg_txns_hr": 18.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 12,
+      "txns": 479,
+      "nd": 26,
+      "avg_txns_hr": 18.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 13,
+      "txns": 484,
+      "nd": 26,
+      "avg_txns_hr": 18.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 14,
+      "txns": 470,
+      "nd": 26,
+      "avg_txns_hr": 18.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 15,
+      "txns": 486,
+      "nd": 26,
+      "avg_txns_hr": 18.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 16,
+      "txns": 519,
+      "nd": 26,
+      "avg_txns_hr": 19.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 17,
+      "txns": 464,
+      "nd": 26,
+      "avg_txns_hr": 17.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 18,
+      "txns": 518,
+      "nd": 26,
+      "avg_txns_hr": 19.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Monday",
+      "hour": 19,
+      "txns": 539,
+      "nd": 26,
+      "avg_txns_hr": 20.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 7,
+      "txns": 588,
+      "nd": 26,
+      "avg_txns_hr": 22.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 8,
+      "txns": 750,
+      "nd": 26,
+      "avg_txns_hr": 28.85,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 9,
+      "txns": 797,
+      "nd": 26,
+      "avg_txns_hr": 30.65,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 10,
+      "txns": 763,
+      "nd": 26,
+      "avg_txns_hr": 29.35,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 11,
+      "txns": 526,
+      "nd": 26,
+      "avg_txns_hr": 20.23,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 12,
+      "txns": 470,
+      "nd": 26,
+      "avg_txns_hr": 18.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 13,
+      "txns": 530,
+      "nd": 26,
+      "avg_txns_hr": 20.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 14,
+      "txns": 471,
+      "nd": 26,
+      "avg_txns_hr": 18.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "txns": 486,
+      "nd": 26,
+      "avg_txns_hr": 18.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "txns": 500,
+      "nd": 26,
+      "avg_txns_hr": 19.23,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 17,
+      "txns": 494,
+      "nd": 26,
+      "avg_txns_hr": 19.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 18,
+      "txns": 516,
+      "nd": 26,
+      "avg_txns_hr": 19.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Saturday",
+      "hour": 19,
+      "txns": 479,
+      "nd": 26,
+      "avg_txns_hr": 18.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 7,
+      "txns": 642,
+      "nd": 26,
+      "avg_txns_hr": 24.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 8,
+      "txns": 669,
+      "nd": 26,
+      "avg_txns_hr": 25.73,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 9,
+      "txns": 676,
+      "nd": 26,
+      "avg_txns_hr": 26.0,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 10,
+      "txns": 699,
+      "nd": 26,
+      "avg_txns_hr": 26.88,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 11,
+      "txns": 487,
+      "nd": 26,
+      "avg_txns_hr": 18.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 12,
+      "txns": 544,
+      "nd": 26,
+      "avg_txns_hr": 20.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 13,
+      "txns": 525,
+      "nd": 26,
+      "avg_txns_hr": 20.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 14,
+      "txns": 496,
+      "nd": 26,
+      "avg_txns_hr": 19.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 15,
+      "txns": 512,
+      "nd": 26,
+      "avg_txns_hr": 19.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 16,
+      "txns": 585,
+      "nd": 26,
+      "avg_txns_hr": 22.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 17,
+      "txns": 489,
+      "nd": 26,
+      "avg_txns_hr": 18.81,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 18,
+      "txns": 534,
+      "nd": 26,
+      "avg_txns_hr": 20.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "txns": 569,
+      "nd": 26,
+      "avg_txns_hr": 21.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 7,
+      "txns": 643,
+      "nd": 26,
+      "avg_txns_hr": 24.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 8,
+      "txns": 687,
+      "nd": 26,
+      "avg_txns_hr": 26.42,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 9,
+      "txns": 700,
+      "nd": 26,
+      "avg_txns_hr": 26.92,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 10,
+      "txns": 771,
+      "nd": 26,
+      "avg_txns_hr": 29.65,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "txns": 522,
+      "nd": 26,
+      "avg_txns_hr": 20.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "txns": 501,
+      "nd": 26,
+      "avg_txns_hr": 19.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 13,
+      "txns": 513,
+      "nd": 26,
+      "avg_txns_hr": 19.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 14,
+      "txns": 518,
+      "nd": 26,
+      "avg_txns_hr": 19.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "txns": 510,
+      "nd": 26,
+      "avg_txns_hr": 19.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 16,
+      "txns": 521,
+      "nd": 26,
+      "avg_txns_hr": 20.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 17,
+      "txns": 494,
+      "nd": 26,
+      "avg_txns_hr": 19.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "txns": 522,
+      "nd": 26,
+      "avg_txns_hr": 20.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "txns": 501,
+      "nd": 26,
+      "avg_txns_hr": 19.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 7,
+      "txns": 575,
+      "nd": 25,
+      "avg_txns_hr": 23.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 8,
+      "txns": 652,
+      "nd": 25,
+      "avg_txns_hr": 26.08,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 9,
+      "txns": 644,
+      "nd": 25,
+      "avg_txns_hr": 25.76,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 10,
+      "txns": 708,
+      "nd": 25,
+      "avg_txns_hr": 28.32,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 11,
+      "txns": 502,
+      "nd": 25,
+      "avg_txns_hr": 20.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 12,
+      "txns": 518,
+      "nd": 25,
+      "avg_txns_hr": 20.72,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 13,
+      "txns": 441,
+      "nd": 25,
+      "avg_txns_hr": 17.64,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 14,
+      "txns": 464,
+      "nd": 25,
+      "avg_txns_hr": 18.56,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "txns": 503,
+      "nd": 25,
+      "avg_txns_hr": 20.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 16,
+      "txns": 500,
+      "nd": 25,
+      "avg_txns_hr": 20.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 17,
+      "txns": 461,
+      "nd": 25,
+      "avg_txns_hr": 18.44,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 18,
+      "txns": 464,
+      "nd": 25,
+      "avg_txns_hr": 18.56,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Tuesday",
+      "hour": 19,
+      "txns": 510,
+      "nd": 25,
+      "avg_txns_hr": 20.4,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 7,
+      "txns": 533,
+      "nd": 26,
+      "avg_txns_hr": 20.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 8,
+      "txns": 719,
+      "nd": 26,
+      "avg_txns_hr": 27.65,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 9,
+      "txns": 731,
+      "nd": 26,
+      "avg_txns_hr": 28.12,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 10,
+      "txns": 783,
+      "nd": 26,
+      "avg_txns_hr": 30.12,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "txns": 427,
+      "nd": 26,
+      "avg_txns_hr": 16.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "txns": 491,
+      "nd": 26,
+      "avg_txns_hr": 18.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 13,
+      "txns": 511,
+      "nd": 26,
+      "avg_txns_hr": 19.65,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 14,
+      "txns": 463,
+      "nd": 26,
+      "avg_txns_hr": 17.81,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 15,
+      "txns": 457,
+      "nd": 26,
+      "avg_txns_hr": 17.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 16,
+      "txns": 519,
+      "nd": 26,
+      "avg_txns_hr": 19.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 17,
+      "txns": 503,
+      "nd": 26,
+      "avg_txns_hr": 19.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 18,
+      "txns": 470,
+      "nd": 26,
+      "avg_txns_hr": 18.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Astoria",
+      "day_of_week": "Wednesday",
+      "hour": 19,
+      "txns": 466,
+      "nd": 26,
+      "avg_txns_hr": 17.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 6,
+      "txns": 191,
+      "nd": 26,
+      "avg_txns_hr": 7.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 7,
+      "txns": 389,
+      "nd": 26,
+      "avg_txns_hr": 14.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 8,
+      "txns": 1177,
+      "nd": 26,
+      "avg_txns_hr": 45.27,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 9,
+      "txns": 1075,
+      "nd": 26,
+      "avg_txns_hr": 41.35,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 10,
+      "txns": 1117,
+      "nd": 26,
+      "avg_txns_hr": 42.96,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 11,
+      "txns": 469,
+      "nd": 26,
+      "avg_txns_hr": 18.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "txns": 324,
+      "nd": 26,
+      "avg_txns_hr": 12.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 13,
+      "txns": 355,
+      "nd": 26,
+      "avg_txns_hr": 13.65,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 14,
+      "txns": 378,
+      "nd": 26,
+      "avg_txns_hr": 14.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 15,
+      "txns": 366,
+      "nd": 26,
+      "avg_txns_hr": 14.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 16,
+      "txns": 392,
+      "nd": 26,
+      "avg_txns_hr": 15.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 17,
+      "txns": 404,
+      "nd": 26,
+      "avg_txns_hr": 15.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 18,
+      "txns": 346,
+      "nd": 26,
+      "avg_txns_hr": 13.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 19,
+      "txns": 354,
+      "nd": 26,
+      "avg_txns_hr": 13.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Friday",
+      "hour": 20,
+      "txns": 135,
+      "nd": 26,
+      "avg_txns_hr": 5.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 6,
+      "txns": 282,
+      "nd": 26,
+      "avg_txns_hr": 10.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 7,
+      "txns": 533,
+      "nd": 26,
+      "avg_txns_hr": 20.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 8,
+      "txns": 994,
+      "nd": 26,
+      "avg_txns_hr": 38.23,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 9,
+      "txns": 1047,
+      "nd": 26,
+      "avg_txns_hr": 40.27,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 10,
+      "txns": 1026,
+      "nd": 26,
+      "avg_txns_hr": 39.46,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 11,
+      "txns": 503,
+      "nd": 26,
+      "avg_txns_hr": 19.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 12,
+      "txns": 358,
+      "nd": 26,
+      "avg_txns_hr": 13.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 13,
+      "txns": 379,
+      "nd": 26,
+      "avg_txns_hr": 14.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 14,
+      "txns": 375,
+      "nd": 26,
+      "avg_txns_hr": 14.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 15,
+      "txns": 372,
+      "nd": 26,
+      "avg_txns_hr": 14.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 16,
+      "txns": 365,
+      "nd": 26,
+      "avg_txns_hr": 14.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 17,
+      "txns": 416,
+      "nd": 26,
+      "avg_txns_hr": 16.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 18,
+      "txns": 435,
+      "nd": 26,
+      "avg_txns_hr": 16.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 19,
+      "txns": 332,
+      "nd": 26,
+      "avg_txns_hr": 12.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Monday",
+      "hour": 20,
+      "txns": 72,
+      "nd": 26,
+      "avg_txns_hr": 2.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 6,
+      "txns": 234,
+      "nd": 26,
+      "avg_txns_hr": 9.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 7,
+      "txns": 471,
+      "nd": 26,
+      "avg_txns_hr": 18.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 8,
+      "txns": 973,
+      "nd": 26,
+      "avg_txns_hr": 37.42,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 9,
+      "txns": 934,
+      "nd": 26,
+      "avg_txns_hr": 35.92,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 10,
+      "txns": 962,
+      "nd": 26,
+      "avg_txns_hr": 37.0,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 11,
+      "txns": 532,
+      "nd": 26,
+      "avg_txns_hr": 20.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 12,
+      "txns": 361,
+      "nd": 26,
+      "avg_txns_hr": 13.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 13,
+      "txns": 392,
+      "nd": 26,
+      "avg_txns_hr": 15.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 14,
+      "txns": 395,
+      "nd": 26,
+      "avg_txns_hr": 15.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "txns": 350,
+      "nd": 26,
+      "avg_txns_hr": 13.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "txns": 377,
+      "nd": 26,
+      "avg_txns_hr": 14.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 17,
+      "txns": 388,
+      "nd": 26,
+      "avg_txns_hr": 14.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 18,
+      "txns": 393,
+      "nd": 26,
+      "avg_txns_hr": 15.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 19,
+      "txns": 341,
+      "nd": 26,
+      "avg_txns_hr": 13.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Saturday",
+      "hour": 20,
+      "txns": 70,
+      "nd": 26,
+      "avg_txns_hr": 2.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 6,
+      "txns": 266,
+      "nd": 26,
+      "avg_txns_hr": 10.23,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 7,
+      "txns": 577,
+      "nd": 26,
+      "avg_txns_hr": 22.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 8,
+      "txns": 916,
+      "nd": 26,
+      "avg_txns_hr": 35.23,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 9,
+      "txns": 886,
+      "nd": 26,
+      "avg_txns_hr": 34.08,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 10,
+      "txns": 945,
+      "nd": 26,
+      "avg_txns_hr": 36.35,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 11,
+      "txns": 584,
+      "nd": 26,
+      "avg_txns_hr": 22.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 12,
+      "txns": 337,
+      "nd": 26,
+      "avg_txns_hr": 12.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 13,
+      "txns": 404,
+      "nd": 26,
+      "avg_txns_hr": 15.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 14,
+      "txns": 435,
+      "nd": 26,
+      "avg_txns_hr": 16.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 15,
+      "txns": 369,
+      "nd": 26,
+      "avg_txns_hr": 14.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 16,
+      "txns": 392,
+      "nd": 26,
+      "avg_txns_hr": 15.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 17,
+      "txns": 418,
+      "nd": 26,
+      "avg_txns_hr": 16.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 18,
+      "txns": 370,
+      "nd": 26,
+      "avg_txns_hr": 14.23,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "txns": 368,
+      "nd": 26,
+      "avg_txns_hr": 14.15,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Sunday",
+      "hour": 20,
+      "txns": 40,
+      "nd": 26,
+      "avg_txns_hr": 1.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 6,
+      "txns": 240,
+      "nd": 26,
+      "avg_txns_hr": 9.23,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 7,
+      "txns": 487,
+      "nd": 26,
+      "avg_txns_hr": 18.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 8,
+      "txns": 926,
+      "nd": 26,
+      "avg_txns_hr": 35.62,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 9,
+      "txns": 957,
+      "nd": 26,
+      "avg_txns_hr": 36.81,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 10,
+      "txns": 930,
+      "nd": 26,
+      "avg_txns_hr": 35.77,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "txns": 527,
+      "nd": 26,
+      "avg_txns_hr": 20.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "txns": 371,
+      "nd": 26,
+      "avg_txns_hr": 14.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 13,
+      "txns": 378,
+      "nd": 26,
+      "avg_txns_hr": 14.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 14,
+      "txns": 413,
+      "nd": 26,
+      "avg_txns_hr": 15.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "txns": 357,
+      "nd": 26,
+      "avg_txns_hr": 13.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 16,
+      "txns": 399,
+      "nd": 26,
+      "avg_txns_hr": 15.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 17,
+      "txns": 401,
+      "nd": 26,
+      "avg_txns_hr": 15.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "txns": 332,
+      "nd": 26,
+      "avg_txns_hr": 12.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "txns": 323,
+      "nd": 26,
+      "avg_txns_hr": 12.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Thursday",
+      "hour": 20,
+      "txns": 63,
+      "nd": 26,
+      "avg_txns_hr": 2.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 6,
+      "txns": 204,
+      "nd": 25,
+      "avg_txns_hr": 8.16,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 7,
+      "txns": 417,
+      "nd": 25,
+      "avg_txns_hr": 16.68,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 8,
+      "txns": 954,
+      "nd": 25,
+      "avg_txns_hr": 38.16,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 9,
+      "txns": 904,
+      "nd": 25,
+      "avg_txns_hr": 36.16,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 10,
+      "txns": 999,
+      "nd": 25,
+      "avg_txns_hr": 39.96,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 11,
+      "txns": 433,
+      "nd": 25,
+      "avg_txns_hr": 17.32,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 12,
+      "txns": 355,
+      "nd": 25,
+      "avg_txns_hr": 14.2,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 13,
+      "txns": 345,
+      "nd": 25,
+      "avg_txns_hr": 13.8,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 14,
+      "txns": 372,
+      "nd": 25,
+      "avg_txns_hr": 14.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "txns": 351,
+      "nd": 25,
+      "avg_txns_hr": 14.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 16,
+      "txns": 380,
+      "nd": 25,
+      "avg_txns_hr": 15.2,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 17,
+      "txns": 359,
+      "nd": 25,
+      "avg_txns_hr": 14.36,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 18,
+      "txns": 356,
+      "nd": 25,
+      "avg_txns_hr": 14.24,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 19,
+      "txns": 331,
+      "nd": 25,
+      "avg_txns_hr": 13.24,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Tuesday",
+      "hour": 20,
+      "txns": 86,
+      "nd": 25,
+      "avg_txns_hr": 3.44,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 6,
+      "txns": 259,
+      "nd": 26,
+      "avg_txns_hr": 9.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 7,
+      "txns": 581,
+      "nd": 26,
+      "avg_txns_hr": 22.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 8,
+      "txns": 969,
+      "nd": 26,
+      "avg_txns_hr": 37.27,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 9,
+      "txns": 964,
+      "nd": 26,
+      "avg_txns_hr": 37.08,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 10,
+      "txns": 978,
+      "nd": 26,
+      "avg_txns_hr": 37.62,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "txns": 550,
+      "nd": 26,
+      "avg_txns_hr": 21.15,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "txns": 336,
+      "nd": 26,
+      "avg_txns_hr": 12.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 13,
+      "txns": 372,
+      "nd": 26,
+      "avg_txns_hr": 14.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 14,
+      "txns": 386,
+      "nd": 26,
+      "avg_txns_hr": 14.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 15,
+      "txns": 340,
+      "nd": 26,
+      "avg_txns_hr": 13.08,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 16,
+      "txns": 386,
+      "nd": 26,
+      "avg_txns_hr": 14.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 17,
+      "txns": 432,
+      "nd": 26,
+      "avg_txns_hr": 16.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 18,
+      "txns": 376,
+      "nd": 26,
+      "avg_txns_hr": 14.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 19,
+      "txns": 353,
+      "nd": 26,
+      "avg_txns_hr": 13.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Hell's Kitchen",
+      "day_of_week": "Wednesday",
+      "hour": 20,
+      "txns": 62,
+      "nd": 26,
+      "avg_txns_hr": 2.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 6,
+      "txns": 298,
+      "nd": 26,
+      "avg_txns_hr": 11.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 7,
+      "txns": 867,
+      "nd": 26,
+      "avg_txns_hr": 33.35,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 8,
+      "txns": 846,
+      "nd": 26,
+      "avg_txns_hr": 32.54,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 9,
+      "txns": 909,
+      "nd": 26,
+      "avg_txns_hr": 34.96,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 10,
+      "txns": 972,
+      "nd": 26,
+      "avg_txns_hr": 37.38,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 11,
+      "txns": 361,
+      "nd": 26,
+      "avg_txns_hr": 13.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 12,
+      "txns": 367,
+      "nd": 26,
+      "avg_txns_hr": 14.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 13,
+      "txns": 345,
+      "nd": 26,
+      "avg_txns_hr": 13.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 14,
+      "txns": 409,
+      "nd": 26,
+      "avg_txns_hr": 15.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 15,
+      "txns": 419,
+      "nd": 26,
+      "avg_txns_hr": 16.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 16,
+      "txns": 380,
+      "nd": 26,
+      "avg_txns_hr": 14.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 17,
+      "txns": 331,
+      "nd": 26,
+      "avg_txns_hr": 12.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 18,
+      "txns": 172,
+      "nd": 26,
+      "avg_txns_hr": 6.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 19,
+      "txns": 17,
+      "nd": 26,
+      "avg_txns_hr": 0.65,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Friday",
+      "hour": 20,
+      "txns": 5,
+      "nd": 26,
+      "avg_txns_hr": 0.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 6,
+      "txns": 425,
+      "nd": 26,
+      "avg_txns_hr": 16.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 7,
+      "txns": 846,
+      "nd": 26,
+      "avg_txns_hr": 32.54,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 8,
+      "txns": 821,
+      "nd": 26,
+      "avg_txns_hr": 31.58,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 9,
+      "txns": 894,
+      "nd": 26,
+      "avg_txns_hr": 34.38,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 10,
+      "txns": 925,
+      "nd": 26,
+      "avg_txns_hr": 35.58,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 11,
+      "txns": 424,
+      "nd": 26,
+      "avg_txns_hr": 16.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 12,
+      "txns": 394,
+      "nd": 26,
+      "avg_txns_hr": 15.15,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 13,
+      "txns": 336,
+      "nd": 26,
+      "avg_txns_hr": 12.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 14,
+      "txns": 420,
+      "nd": 26,
+      "avg_txns_hr": 16.15,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 15,
+      "txns": 437,
+      "nd": 26,
+      "avg_txns_hr": 16.81,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 16,
+      "txns": 373,
+      "nd": 26,
+      "avg_txns_hr": 14.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 17,
+      "txns": 346,
+      "nd": 26,
+      "avg_txns_hr": 13.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 18,
+      "txns": 196,
+      "nd": 26,
+      "avg_txns_hr": 7.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 19,
+      "txns": 15,
+      "nd": 26,
+      "avg_txns_hr": 0.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Monday",
+      "hour": 20,
+      "txns": 8,
+      "nd": 26,
+      "avg_txns_hr": 0.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 6,
+      "txns": 464,
+      "nd": 26,
+      "avg_txns_hr": 17.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 7,
+      "txns": 814,
+      "nd": 26,
+      "avg_txns_hr": 31.31,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 8,
+      "txns": 817,
+      "nd": 26,
+      "avg_txns_hr": 31.42,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 9,
+      "txns": 796,
+      "nd": 26,
+      "avg_txns_hr": 30.62,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 10,
+      "txns": 871,
+      "nd": 26,
+      "avg_txns_hr": 33.5,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 11,
+      "txns": 410,
+      "nd": 26,
+      "avg_txns_hr": 15.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 12,
+      "txns": 395,
+      "nd": 26,
+      "avg_txns_hr": 15.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 13,
+      "txns": 389,
+      "nd": 26,
+      "avg_txns_hr": 14.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 14,
+      "txns": 391,
+      "nd": 26,
+      "avg_txns_hr": 15.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 15,
+      "txns": 434,
+      "nd": 26,
+      "avg_txns_hr": 16.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 16,
+      "txns": 395,
+      "nd": 26,
+      "avg_txns_hr": 15.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 17,
+      "txns": 353,
+      "nd": 26,
+      "avg_txns_hr": 13.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 18,
+      "txns": 209,
+      "nd": 26,
+      "avg_txns_hr": 8.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 19,
+      "txns": 16,
+      "nd": 26,
+      "avg_txns_hr": 0.62,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Saturday",
+      "hour": 20,
+      "txns": 13,
+      "nd": 26,
+      "avg_txns_hr": 0.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 6,
+      "txns": 465,
+      "nd": 26,
+      "avg_txns_hr": 17.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 7,
+      "txns": 740,
+      "nd": 26,
+      "avg_txns_hr": 28.46,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 8,
+      "txns": 804,
+      "nd": 26,
+      "avg_txns_hr": 30.92,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 9,
+      "txns": 813,
+      "nd": 26,
+      "avg_txns_hr": 31.27,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 10,
+      "txns": 926,
+      "nd": 26,
+      "avg_txns_hr": 35.62,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 11,
+      "txns": 399,
+      "nd": 26,
+      "avg_txns_hr": 15.35,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 12,
+      "txns": 426,
+      "nd": 26,
+      "avg_txns_hr": 16.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 13,
+      "txns": 388,
+      "nd": 26,
+      "avg_txns_hr": 14.92,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 14,
+      "txns": 410,
+      "nd": 26,
+      "avg_txns_hr": 15.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 15,
+      "txns": 442,
+      "nd": 26,
+      "avg_txns_hr": 17.0,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 16,
+      "txns": 429,
+      "nd": 26,
+      "avg_txns_hr": 16.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 17,
+      "txns": 404,
+      "nd": 26,
+      "avg_txns_hr": 15.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 18,
+      "txns": 221,
+      "nd": 26,
+      "avg_txns_hr": 8.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 19,
+      "txns": 33,
+      "nd": 26,
+      "avg_txns_hr": 1.27,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Sunday",
+      "hour": 20,
+      "txns": 20,
+      "nd": 26,
+      "avg_txns_hr": 0.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 6,
+      "txns": 421,
+      "nd": 26,
+      "avg_txns_hr": 16.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 7,
+      "txns": 862,
+      "nd": 26,
+      "avg_txns_hr": 33.15,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 8,
+      "txns": 869,
+      "nd": 26,
+      "avg_txns_hr": 33.42,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 9,
+      "txns": 837,
+      "nd": 26,
+      "avg_txns_hr": 32.19,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 10,
+      "txns": 911,
+      "nd": 26,
+      "avg_txns_hr": 35.04,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 11,
+      "txns": 429,
+      "nd": 26,
+      "avg_txns_hr": 16.5,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 12,
+      "txns": 436,
+      "nd": 26,
+      "avg_txns_hr": 16.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 13,
+      "txns": 376,
+      "nd": 26,
+      "avg_txns_hr": 14.46,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 14,
+      "txns": 445,
+      "nd": 26,
+      "avg_txns_hr": 17.12,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 15,
+      "txns": 452,
+      "nd": 26,
+      "avg_txns_hr": 17.38,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 16,
+      "txns": 435,
+      "nd": 26,
+      "avg_txns_hr": 16.73,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 17,
+      "txns": 407,
+      "nd": 26,
+      "avg_txns_hr": 15.65,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 18,
+      "txns": 223,
+      "nd": 26,
+      "avg_txns_hr": 8.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 19,
+      "txns": 22,
+      "nd": 26,
+      "avg_txns_hr": 0.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Thursday",
+      "hour": 20,
+      "txns": 11,
+      "nd": 26,
+      "avg_txns_hr": 0.42,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 6,
+      "txns": 388,
+      "nd": 25,
+      "avg_txns_hr": 15.52,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 7,
+      "txns": 885,
+      "nd": 25,
+      "avg_txns_hr": 35.4,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 8,
+      "txns": 832,
+      "nd": 25,
+      "avg_txns_hr": 33.28,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 9,
+      "txns": 797,
+      "nd": 25,
+      "avg_txns_hr": 31.88,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 10,
+      "txns": 844,
+      "nd": 25,
+      "avg_txns_hr": 33.76,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 11,
+      "txns": 372,
+      "nd": 25,
+      "avg_txns_hr": 14.88,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 12,
+      "txns": 406,
+      "nd": 25,
+      "avg_txns_hr": 16.24,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 13,
+      "txns": 401,
+      "nd": 25,
+      "avg_txns_hr": 16.04,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 14,
+      "txns": 390,
+      "nd": 25,
+      "avg_txns_hr": 15.6,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 15,
+      "txns": 433,
+      "nd": 25,
+      "avg_txns_hr": 17.32,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 16,
+      "txns": 407,
+      "nd": 25,
+      "avg_txns_hr": 16.28,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 17,
+      "txns": 358,
+      "nd": 25,
+      "avg_txns_hr": 14.32,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 18,
+      "txns": 199,
+      "nd": 25,
+      "avg_txns_hr": 7.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 19,
+      "txns": 5,
+      "nd": 25,
+      "avg_txns_hr": 0.2,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Tuesday",
+      "hour": 20,
+      "txns": 5,
+      "nd": 25,
+      "avg_txns_hr": 0.2,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 6,
+      "txns": 457,
+      "nd": 26,
+      "avg_txns_hr": 17.58,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 7,
+      "txns": 778,
+      "nd": 26,
+      "avg_txns_hr": 29.92,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 8,
+      "txns": 790,
+      "nd": 26,
+      "avg_txns_hr": 30.38,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 9,
+      "txns": 868,
+      "nd": 26,
+      "avg_txns_hr": 33.38,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 10,
+      "txns": 848,
+      "nd": 26,
+      "avg_txns_hr": 32.62,
+      "staff_needed": 2.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 11,
+      "txns": 360,
+      "nd": 26,
+      "avg_txns_hr": 13.85,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 12,
+      "txns": 404,
+      "nd": 26,
+      "avg_txns_hr": 15.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 13,
+      "txns": 398,
+      "nd": 26,
+      "avg_txns_hr": 15.31,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 14,
+      "txns": 395,
+      "nd": 26,
+      "avg_txns_hr": 15.19,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 15,
+      "txns": 434,
+      "nd": 26,
+      "avg_txns_hr": 16.69,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 16,
+      "txns": 384,
+      "nd": 26,
+      "avg_txns_hr": 14.77,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 17,
+      "txns": 326,
+      "nd": 26,
+      "avg_txns_hr": 12.54,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 18,
+      "txns": 207,
+      "nd": 26,
+      "avg_txns_hr": 7.96,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 19,
+      "txns": 17,
+      "nd": 26,
+      "avg_txns_hr": 0.65,
+      "staff_needed": 1.0
+    },
+    {
+      "store_location": "Lower Manhattan",
+      "day_of_week": "Wednesday",
+      "hour": 20,
+      "txns": 13,
+      "nd": 26,
+      "avg_txns_hr": 0.5,
+      "staff_needed": 1.0
+    }
+  ],
+  "total_staff_hours_per_week": 371.0,
+  "flat_staffing_hours_per_week": 602.0,
+  "staff_hours_saving_pct": 38.372093023255815
+}
