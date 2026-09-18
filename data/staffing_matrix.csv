@@ -1,0 +1,302 @@
+store_location,day_of_week,hour,txns,nd,avg_txns_hr,staff_needed
+Astoria,Friday,7,590,26,22.692307692307693,1.0
+Astoria,Friday,8,760,26,29.23076923076923,2.0
+Astoria,Friday,9,769,26,29.576923076923077,2.0
+Astoria,Friday,10,757,26,29.115384615384617,2.0
+Astoria,Friday,11,471,26,18.115384615384617,1.0
+Astoria,Friday,12,435,26,16.73076923076923,1.0
+Astoria,Friday,13,452,26,17.384615384615383,1.0
+Astoria,Friday,14,437,26,16.807692307692307,1.0
+Astoria,Friday,15,469,26,18.03846153846154,1.0
+Astoria,Friday,16,455,26,17.5,1.0
+Astoria,Friday,17,497,26,19.115384615384617,1.0
+Astoria,Friday,18,439,26,16.884615384615383,1.0
+Astoria,Friday,19,501,26,19.26923076923077,1.0
+Astoria,Monday,7,610,26,23.46153846153846,1.0
+Astoria,Monday,8,729,26,28.03846153846154,2.0
+Astoria,Monday,9,766,26,29.46153846153846,2.0
+Astoria,Monday,10,810,26,31.153846153846153,2.0
+Astoria,Monday,11,478,26,18.384615384615383,1.0
+Astoria,Monday,12,479,26,18.423076923076923,1.0
+Astoria,Monday,13,484,26,18.615384615384617,1.0
+Astoria,Monday,14,470,26,18.076923076923077,1.0
+Astoria,Monday,15,486,26,18.692307692307693,1.0
+Astoria,Monday,16,519,26,19.96153846153846,1.0
+Astoria,Monday,17,464,26,17.846153846153847,1.0
+Astoria,Monday,18,518,26,19.923076923076923,1.0
+Astoria,Monday,19,539,26,20.73076923076923,1.0
+Astoria,Saturday,7,588,26,22.615384615384617,1.0
+Astoria,Saturday,8,750,26,28.846153846153847,2.0
+Astoria,Saturday,9,797,26,30.653846153846153,2.0
+Astoria,Saturday,10,763,26,29.346153846153847,2.0
+Astoria,Saturday,11,526,26,20.23076923076923,1.0
+Astoria,Saturday,12,470,26,18.076923076923077,1.0
+Astoria,Saturday,13,530,26,20.384615384615383,1.0
+Astoria,Saturday,14,471,26,18.115384615384617,1.0
+Astoria,Saturday,15,486,26,18.692307692307693,1.0
+Astoria,Saturday,16,500,26,19.23076923076923,1.0
+Astoria,Saturday,17,494,26,19.0,1.0
+Astoria,Saturday,18,516,26,19.846153846153847,1.0
+Astoria,Saturday,19,479,26,18.423076923076923,1.0
+Astoria,Sunday,7,642,26,24.692307692307693,1.0
+Astoria,Sunday,8,669,26,25.73076923076923,2.0
+Astoria,Sunday,9,676,26,26.0,2.0
+Astoria,Sunday,10,699,26,26.884615384615383,2.0
+Astoria,Sunday,11,487,26,18.73076923076923,1.0
+Astoria,Sunday,12,544,26,20.923076923076923,1.0
+Astoria,Sunday,13,525,26,20.192307692307693,1.0
+Astoria,Sunday,14,496,26,19.076923076923077,1.0
+Astoria,Sunday,15,512,26,19.692307692307693,1.0
+Astoria,Sunday,16,585,26,22.5,1.0
+Astoria,Sunday,17,489,26,18.807692307692307,1.0
+Astoria,Sunday,18,534,26,20.53846153846154,1.0
+Astoria,Sunday,19,569,26,21.884615384615383,1.0
+Astoria,Thursday,7,643,26,24.73076923076923,1.0
+Astoria,Thursday,8,687,26,26.423076923076923,2.0
+Astoria,Thursday,9,700,26,26.923076923076923,2.0
+Astoria,Thursday,10,771,26,29.653846153846153,2.0
+Astoria,Thursday,11,522,26,20.076923076923077,1.0
+Astoria,Thursday,12,501,26,19.26923076923077,1.0
+Astoria,Thursday,13,513,26,19.73076923076923,1.0
+Astoria,Thursday,14,518,26,19.923076923076923,1.0
+Astoria,Thursday,15,510,26,19.615384615384617,1.0
+Astoria,Thursday,16,521,26,20.03846153846154,1.0
+Astoria,Thursday,17,494,26,19.0,1.0
+Astoria,Thursday,18,522,26,20.076923076923077,1.0
+Astoria,Thursday,19,501,26,19.26923076923077,1.0
+Astoria,Tuesday,7,575,25,23.0,1.0
+Astoria,Tuesday,8,652,25,26.08,2.0
+Astoria,Tuesday,9,644,25,25.76,2.0
+Astoria,Tuesday,10,708,25,28.32,2.0
+Astoria,Tuesday,11,502,25,20.08,1.0
+Astoria,Tuesday,12,518,25,20.72,1.0
+Astoria,Tuesday,13,441,25,17.64,1.0
+Astoria,Tuesday,14,464,25,18.56,1.0
+Astoria,Tuesday,15,503,25,20.12,1.0
+Astoria,Tuesday,16,500,25,20.0,1.0
+Astoria,Tuesday,17,461,25,18.44,1.0
+Astoria,Tuesday,18,464,25,18.56,1.0
+Astoria,Tuesday,19,510,25,20.4,1.0
+Astoria,Wednesday,7,533,26,20.5,1.0
+Astoria,Wednesday,8,719,26,27.653846153846153,2.0
+Astoria,Wednesday,9,731,26,28.115384615384617,2.0
+Astoria,Wednesday,10,783,26,30.115384615384617,2.0
+Astoria,Wednesday,11,427,26,16.423076923076923,1.0
+Astoria,Wednesday,12,491,26,18.884615384615383,1.0
+Astoria,Wednesday,13,511,26,19.653846153846153,1.0
+Astoria,Wednesday,14,463,26,17.807692307692307,1.0
+Astoria,Wednesday,15,457,26,17.576923076923077,1.0
+Astoria,Wednesday,16,519,26,19.96153846153846,1.0
+Astoria,Wednesday,17,503,26,19.346153846153847,1.0
+Astoria,Wednesday,18,470,26,18.076923076923077,1.0
+Astoria,Wednesday,19,466,26,17.923076923076923,1.0
+Hell's Kitchen,Friday,6,191,26,7.346153846153846,1.0
+Hell's Kitchen,Friday,7,389,26,14.961538461538462,1.0
+Hell's Kitchen,Friday,8,1177,26,45.26923076923077,2.0
+Hell's Kitchen,Friday,9,1075,26,41.34615384615385,2.0
+Hell's Kitchen,Friday,10,1117,26,42.96153846153846,2.0
+Hell's Kitchen,Friday,11,469,26,18.03846153846154,1.0
+Hell's Kitchen,Friday,12,324,26,12.461538461538462,1.0
+Hell's Kitchen,Friday,13,355,26,13.653846153846153,1.0
+Hell's Kitchen,Friday,14,378,26,14.538461538461538,1.0
+Hell's Kitchen,Friday,15,366,26,14.076923076923077,1.0
+Hell's Kitchen,Friday,16,392,26,15.076923076923077,1.0
+Hell's Kitchen,Friday,17,404,26,15.538461538461538,1.0
+Hell's Kitchen,Friday,18,346,26,13.307692307692308,1.0
+Hell's Kitchen,Friday,19,354,26,13.615384615384615,1.0
+Hell's Kitchen,Friday,20,135,26,5.1923076923076925,1.0
+Hell's Kitchen,Monday,6,282,26,10.846153846153847,1.0
+Hell's Kitchen,Monday,7,533,26,20.5,1.0
+Hell's Kitchen,Monday,8,994,26,38.23076923076923,2.0
+Hell's Kitchen,Monday,9,1047,26,40.26923076923077,2.0
+Hell's Kitchen,Monday,10,1026,26,39.46153846153846,2.0
+Hell's Kitchen,Monday,11,503,26,19.346153846153847,1.0
+Hell's Kitchen,Monday,12,358,26,13.76923076923077,1.0
+Hell's Kitchen,Monday,13,379,26,14.576923076923077,1.0
+Hell's Kitchen,Monday,14,375,26,14.423076923076923,1.0
+Hell's Kitchen,Monday,15,372,26,14.307692307692308,1.0
+Hell's Kitchen,Monday,16,365,26,14.038461538461538,1.0
+Hell's Kitchen,Monday,17,416,26,16.0,1.0
+Hell's Kitchen,Monday,18,435,26,16.73076923076923,1.0
+Hell's Kitchen,Monday,19,332,26,12.76923076923077,1.0
+Hell's Kitchen,Monday,20,72,26,2.769230769230769,1.0
+Hell's Kitchen,Saturday,6,234,26,9.0,1.0
+Hell's Kitchen,Saturday,7,471,26,18.115384615384617,1.0
+Hell's Kitchen,Saturday,8,973,26,37.42307692307692,2.0
+Hell's Kitchen,Saturday,9,934,26,35.92307692307692,2.0
+Hell's Kitchen,Saturday,10,962,26,37.0,2.0
+Hell's Kitchen,Saturday,11,532,26,20.46153846153846,1.0
+Hell's Kitchen,Saturday,12,361,26,13.884615384615385,1.0
+Hell's Kitchen,Saturday,13,392,26,15.076923076923077,1.0
+Hell's Kitchen,Saturday,14,395,26,15.192307692307692,1.0
+Hell's Kitchen,Saturday,15,350,26,13.461538461538462,1.0
+Hell's Kitchen,Saturday,16,377,26,14.5,1.0
+Hell's Kitchen,Saturday,17,388,26,14.923076923076923,1.0
+Hell's Kitchen,Saturday,18,393,26,15.115384615384615,1.0
+Hell's Kitchen,Saturday,19,341,26,13.115384615384615,1.0
+Hell's Kitchen,Saturday,20,70,26,2.6923076923076925,1.0
+Hell's Kitchen,Sunday,6,266,26,10.23076923076923,1.0
+Hell's Kitchen,Sunday,7,577,26,22.192307692307693,1.0
+Hell's Kitchen,Sunday,8,916,26,35.23076923076923,2.0
+Hell's Kitchen,Sunday,9,886,26,34.07692307692308,2.0
+Hell's Kitchen,Sunday,10,945,26,36.34615384615385,2.0
+Hell's Kitchen,Sunday,11,584,26,22.46153846153846,1.0
+Hell's Kitchen,Sunday,12,337,26,12.961538461538462,1.0
+Hell's Kitchen,Sunday,13,404,26,15.538461538461538,1.0
+Hell's Kitchen,Sunday,14,435,26,16.73076923076923,1.0
+Hell's Kitchen,Sunday,15,369,26,14.192307692307692,1.0
+Hell's Kitchen,Sunday,16,392,26,15.076923076923077,1.0
+Hell's Kitchen,Sunday,17,418,26,16.076923076923077,1.0
+Hell's Kitchen,Sunday,18,370,26,14.23076923076923,1.0
+Hell's Kitchen,Sunday,19,368,26,14.153846153846153,1.0
+Hell's Kitchen,Sunday,20,40,26,1.5384615384615385,1.0
+Hell's Kitchen,Thursday,6,240,26,9.23076923076923,1.0
+Hell's Kitchen,Thursday,7,487,26,18.73076923076923,1.0
+Hell's Kitchen,Thursday,8,926,26,35.61538461538461,2.0
+Hell's Kitchen,Thursday,9,957,26,36.80769230769231,2.0
+Hell's Kitchen,Thursday,10,930,26,35.76923076923077,2.0
+Hell's Kitchen,Thursday,11,527,26,20.26923076923077,1.0
+Hell's Kitchen,Thursday,12,371,26,14.26923076923077,1.0
+Hell's Kitchen,Thursday,13,378,26,14.538461538461538,1.0
+Hell's Kitchen,Thursday,14,413,26,15.884615384615385,1.0
+Hell's Kitchen,Thursday,15,357,26,13.73076923076923,1.0
+Hell's Kitchen,Thursday,16,399,26,15.346153846153847,1.0
+Hell's Kitchen,Thursday,17,401,26,15.423076923076923,1.0
+Hell's Kitchen,Thursday,18,332,26,12.76923076923077,1.0
+Hell's Kitchen,Thursday,19,323,26,12.423076923076923,1.0
+Hell's Kitchen,Thursday,20,63,26,2.423076923076923,1.0
+Hell's Kitchen,Tuesday,6,204,25,8.16,1.0
+Hell's Kitchen,Tuesday,7,417,25,16.68,1.0
+Hell's Kitchen,Tuesday,8,954,25,38.16,2.0
+Hell's Kitchen,Tuesday,9,904,25,36.16,2.0
+Hell's Kitchen,Tuesday,10,999,25,39.96,2.0
+Hell's Kitchen,Tuesday,11,433,25,17.32,1.0
+Hell's Kitchen,Tuesday,12,355,25,14.2,1.0
+Hell's Kitchen,Tuesday,13,345,25,13.8,1.0
+Hell's Kitchen,Tuesday,14,372,25,14.88,1.0
+Hell's Kitchen,Tuesday,15,351,25,14.04,1.0
+Hell's Kitchen,Tuesday,16,380,25,15.2,1.0
+Hell's Kitchen,Tuesday,17,359,25,14.36,1.0
+Hell's Kitchen,Tuesday,18,356,25,14.24,1.0
+Hell's Kitchen,Tuesday,19,331,25,13.24,1.0
+Hell's Kitchen,Tuesday,20,86,25,3.44,1.0
+Hell's Kitchen,Wednesday,6,259,26,9.961538461538462,1.0
+Hell's Kitchen,Wednesday,7,581,26,22.346153846153847,1.0
+Hell's Kitchen,Wednesday,8,969,26,37.26923076923077,2.0
+Hell's Kitchen,Wednesday,9,964,26,37.07692307692308,2.0
+Hell's Kitchen,Wednesday,10,978,26,37.61538461538461,2.0
+Hell's Kitchen,Wednesday,11,550,26,21.153846153846153,1.0
+Hell's Kitchen,Wednesday,12,336,26,12.923076923076923,1.0
+Hell's Kitchen,Wednesday,13,372,26,14.307692307692308,1.0
+Hell's Kitchen,Wednesday,14,386,26,14.846153846153847,1.0
+Hell's Kitchen,Wednesday,15,340,26,13.076923076923077,1.0
+Hell's Kitchen,Wednesday,16,386,26,14.846153846153847,1.0
+Hell's Kitchen,Wednesday,17,432,26,16.615384615384617,1.0
+Hell's Kitchen,Wednesday,18,376,26,14.461538461538462,1.0
+Hell's Kitchen,Wednesday,19,353,26,13.576923076923077,1.0
+Hell's Kitchen,Wednesday,20,62,26,2.3846153846153846,1.0
+Lower Manhattan,Friday,6,298,26,11.461538461538462,1.0
+Lower Manhattan,Friday,7,867,26,33.34615384615385,2.0
+Lower Manhattan,Friday,8,846,26,32.53846153846154,2.0
+Lower Manhattan,Friday,9,909,26,34.96153846153846,2.0
+Lower Manhattan,Friday,10,972,26,37.38461538461539,2.0
+Lower Manhattan,Friday,11,361,26,13.884615384615385,1.0
+Lower Manhattan,Friday,12,367,26,14.115384615384615,1.0
+Lower Manhattan,Friday,13,345,26,13.26923076923077,1.0
+Lower Manhattan,Friday,14,409,26,15.73076923076923,1.0
+Lower Manhattan,Friday,15,419,26,16.115384615384617,1.0
+Lower Manhattan,Friday,16,380,26,14.615384615384615,1.0
+Lower Manhattan,Friday,17,331,26,12.73076923076923,1.0
+Lower Manhattan,Friday,18,172,26,6.615384615384615,1.0
+Lower Manhattan,Friday,19,17,26,0.6538461538461539,1.0
+Lower Manhattan,Friday,20,5,26,0.19230769230769232,1.0
+Lower Manhattan,Monday,6,425,26,16.346153846153847,1.0
+Lower Manhattan,Monday,7,846,26,32.53846153846154,2.0
+Lower Manhattan,Monday,8,821,26,31.576923076923077,2.0
+Lower Manhattan,Monday,9,894,26,34.38461538461539,2.0
+Lower Manhattan,Monday,10,925,26,35.57692307692308,2.0
+Lower Manhattan,Monday,11,424,26,16.307692307692307,1.0
+Lower Manhattan,Monday,12,394,26,15.153846153846153,1.0
+Lower Manhattan,Monday,13,336,26,12.923076923076923,1.0
+Lower Manhattan,Monday,14,420,26,16.153846153846153,1.0
+Lower Manhattan,Monday,15,437,26,16.807692307692307,1.0
+Lower Manhattan,Monday,16,373,26,14.346153846153847,1.0
+Lower Manhattan,Monday,17,346,26,13.307692307692308,1.0
+Lower Manhattan,Monday,18,196,26,7.538461538461538,1.0
+Lower Manhattan,Monday,19,15,26,0.5769230769230769,1.0
+Lower Manhattan,Monday,20,8,26,0.3076923076923077,1.0
+Lower Manhattan,Saturday,6,464,26,17.846153846153847,1.0
+Lower Manhattan,Saturday,7,814,26,31.307692307692307,2.0
+Lower Manhattan,Saturday,8,817,26,31.423076923076923,2.0
+Lower Manhattan,Saturday,9,796,26,30.615384615384617,2.0
+Lower Manhattan,Saturday,10,871,26,33.5,2.0
+Lower Manhattan,Saturday,11,410,26,15.76923076923077,1.0
+Lower Manhattan,Saturday,12,395,26,15.192307692307692,1.0
+Lower Manhattan,Saturday,13,389,26,14.961538461538462,1.0
+Lower Manhattan,Saturday,14,391,26,15.038461538461538,1.0
+Lower Manhattan,Saturday,15,434,26,16.692307692307693,1.0
+Lower Manhattan,Saturday,16,395,26,15.192307692307692,1.0
+Lower Manhattan,Saturday,17,353,26,13.576923076923077,1.0
+Lower Manhattan,Saturday,18,209,26,8.038461538461538,1.0
+Lower Manhattan,Saturday,19,16,26,0.6153846153846154,1.0
+Lower Manhattan,Saturday,20,13,26,0.5,1.0
+Lower Manhattan,Sunday,6,465,26,17.884615384615383,1.0
+Lower Manhattan,Sunday,7,740,26,28.46153846153846,2.0
+Lower Manhattan,Sunday,8,804,26,30.923076923076923,2.0
+Lower Manhattan,Sunday,9,813,26,31.26923076923077,2.0
+Lower Manhattan,Sunday,10,926,26,35.61538461538461,2.0
+Lower Manhattan,Sunday,11,399,26,15.346153846153847,1.0
+Lower Manhattan,Sunday,12,426,26,16.384615384615383,1.0
+Lower Manhattan,Sunday,13,388,26,14.923076923076923,1.0
+Lower Manhattan,Sunday,14,410,26,15.76923076923077,1.0
+Lower Manhattan,Sunday,15,442,26,17.0,1.0
+Lower Manhattan,Sunday,16,429,26,16.5,1.0
+Lower Manhattan,Sunday,17,404,26,15.538461538461538,1.0
+Lower Manhattan,Sunday,18,221,26,8.5,1.0
+Lower Manhattan,Sunday,19,33,26,1.2692307692307692,1.0
+Lower Manhattan,Sunday,20,20,26,0.7692307692307693,1.0
+Lower Manhattan,Thursday,6,421,26,16.192307692307693,1.0
+Lower Manhattan,Thursday,7,862,26,33.15384615384615,2.0
+Lower Manhattan,Thursday,8,869,26,33.42307692307692,2.0
+Lower Manhattan,Thursday,9,837,26,32.19230769230769,2.0
+Lower Manhattan,Thursday,10,911,26,35.03846153846154,2.0
+Lower Manhattan,Thursday,11,429,26,16.5,1.0
+Lower Manhattan,Thursday,12,436,26,16.76923076923077,1.0
+Lower Manhattan,Thursday,13,376,26,14.461538461538462,1.0
+Lower Manhattan,Thursday,14,445,26,17.115384615384617,1.0
+Lower Manhattan,Thursday,15,452,26,17.384615384615383,1.0
+Lower Manhattan,Thursday,16,435,26,16.73076923076923,1.0
+Lower Manhattan,Thursday,17,407,26,15.653846153846153,1.0
+Lower Manhattan,Thursday,18,223,26,8.576923076923077,1.0
+Lower Manhattan,Thursday,19,22,26,0.8461538461538461,1.0
+Lower Manhattan,Thursday,20,11,26,0.4230769230769231,1.0
+Lower Manhattan,Tuesday,6,388,25,15.52,1.0
+Lower Manhattan,Tuesday,7,885,25,35.4,2.0
+Lower Manhattan,Tuesday,8,832,25,33.28,2.0
+Lower Manhattan,Tuesday,9,797,25,31.88,2.0
+Lower Manhattan,Tuesday,10,844,25,33.76,2.0
+Lower Manhattan,Tuesday,11,372,25,14.88,1.0
+Lower Manhattan,Tuesday,12,406,25,16.24,1.0
+Lower Manhattan,Tuesday,13,401,25,16.04,1.0
+Lower Manhattan,Tuesday,14,390,25,15.6,1.0
+Lower Manhattan,Tuesday,15,433,25,17.32,1.0
+Lower Manhattan,Tuesday,16,407,25,16.28,1.0
+Lower Manhattan,Tuesday,17,358,25,14.32,1.0
+Lower Manhattan,Tuesday,18,199,25,7.96,1.0
+Lower Manhattan,Tuesday,19,5,25,0.2,1.0
+Lower Manhattan,Tuesday,20,5,25,0.2,1.0
+Lower Manhattan,Wednesday,6,457,26,17.576923076923077,1.0
+Lower Manhattan,Wednesday,7,778,26,29.923076923076923,2.0
+Lower Manhattan,Wednesday,8,790,26,30.384615384615383,2.0
+Lower Manhattan,Wednesday,9,868,26,33.38461538461539,2.0
+Lower Manhattan,Wednesday,10,848,26,32.61538461538461,2.0
+Lower Manhattan,Wednesday,11,360,26,13.846153846153847,1.0
+Lower Manhattan,Wednesday,12,404,26,15.538461538461538,1.0
+Lower Manhattan,Wednesday,13,398,26,15.307692307692308,1.0
+Lower Manhattan,Wednesday,14,395,26,15.192307692307692,1.0
+Lower Manhattan,Wednesday,15,434,26,16.692307692307693,1.0
+Lower Manhattan,Wednesday,16,384,26,14.76923076923077,1.0
+Lower Manhattan,Wednesday,17,326,26,12.538461538461538,1.0
+Lower Manhattan,Wednesday,18,207,26,7.961538461538462,1.0
+Lower Manhattan,Wednesday,19,17,26,0.6538461538461539,1.0
+Lower Manhattan,Wednesday,20,13,26,0.5,1.0
